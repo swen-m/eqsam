@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		517E635E25843D0B00F5C16F /* eqsam */ = {isa = PBXFileReference; lastKnownFileType = text; path = eqsam; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		517E635325843CE500F5C16F = {
 			isa = PBXGroup;
 			children = (
+				517E635E25843D0B00F5C16F /* eqsam */,
 			);
 			sourceTree = "<group>";
 		};
