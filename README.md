@@ -8,7 +8,6 @@ coefficients. The thermodynamic framework (domains and subdomains, internally mi
 is the same as of more complex aerosol thermodynamic equilibrium models, e.g. of ISORROPIA
 (Nenes et al., 1998). Details are given in the references below (and the references therein).
 
-
 https://ui.adsabs.harvard.edu/abs/2000PhDT.......328M/abstract
 https://dspace.library.uu.nl/bitstream/handle/1874/646/full.pdf
 https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2001JD001102
