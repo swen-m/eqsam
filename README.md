@@ -1,12 +1,12 @@
 # eqsam
 
-EQSAM (EQuilibrium Simplified Aerosol Model) is a computationally efficient thermodynamic
-aerosol composition model that allows to calculate the gas/aerosol equilibrium partitioning,
-including aerosol water, sufficiently fast and accurate for global and regional modeling.
-EQSAM is based on a number of parameterizations, including single solute molalities and activity
-coefficients. The thermodynamic framework (domains and subdomains, internally mixed aerosols)
-is the same as of more complex aerosol thermodynamic equilibrium models, e.g. of ISORROPIA
-(Nenes et al., 1998). Details are given in the references below (and the references therein).
+EQSAM (EQuilibrium Simplified Aerosol Model) is a computationally efficient thermodynamic<br />
+aerosol composition model that allows to calculate the gas/aerosol equilibrium partitioning,<br />
+including aerosol water, sufficiently fast and accurate for global and regional modeling.<br />
+EQSAM is based on a number of parameterizations, including single solute molalities and activity<br />
+coefficients. The thermodynamic framework (domains and subdomains, internally mixed aerosols)<br />
+is the same as of more complex aerosol thermodynamic equilibrium models, e.g. of ISORROPIA<br />
+(Nenes et al., 1998). Details are given in the references below (and the references therein).<br />
 
 https://ui.adsabs.harvard.edu/abs/2000PhDT.......328M/abstract<br />
 https://dspace.library.uu.nl/bitstream/handle/1874/646/full.pdf<br />
