@@ -8,14 +8,24 @@
 
 /* Begin PBXFileReference section */
 		517E635E25843D0B00F5C16F /* eqsam */ = {isa = PBXFileReference; lastKnownFileType = text; path = eqsam; sourceTree = "<group>"; };
+		517E636025843FBE00F5C16F /* eqsam4clim */ = {isa = PBXFileReference; lastKnownFileType = text; path = eqsam4clim; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		517E635325843CE500F5C16F = {
 			isa = PBXGroup;
 			children = (
-				517E635E25843D0B00F5C16F /* eqsam */,
+				517E635F25843F7600F5C16F /* eqsam-versions */,
 			);
+			sourceTree = "<group>";
+		};
+		517E635F25843F7600F5C16F /* eqsam-versions */ = {
+			isa = PBXGroup;
+			children = (
+				517E635E25843D0B00F5C16F /* eqsam */,
+				517E636025843FBE00F5C16F /* eqsam4clim */,
+			);
+			path = "eqsam-versions";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
