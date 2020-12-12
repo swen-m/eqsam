@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		517E635E25843D0B00F5C16F /* eqsam */ = {isa = PBXFileReference; lastKnownFileType = text; path = eqsam; sourceTree = "<group>"; };
-		517E636025843FBE00F5C16F /* eqsam4clim */ = {isa = PBXFileReference; lastKnownFileType = text; path = eqsam4clim; sourceTree = "<group>"; };
+		517E635E25843D0B00F5C16F /* eqsam_v03d */ = {isa = PBXFileReference; lastKnownFileType = text; path = eqsam_v03d; sourceTree = "<group>"; };
+		517E636025843FBE00F5C16F /* eqsam4clim-camx */ = {isa = PBXFileReference; lastKnownFileType = text; path = "eqsam4clim-camx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -22,8 +22,8 @@
 		517E635F25843F7600F5C16F /* eqsam-versions */ = {
 			isa = PBXGroup;
 			children = (
-				517E635E25843D0B00F5C16F /* eqsam */,
-				517E636025843FBE00F5C16F /* eqsam4clim */,
+				517E635E25843D0B00F5C16F /* eqsam_v03d */,
+				517E636025843FBE00F5C16F /* eqsam4clim-camx */,
 			);
 			path = "eqsam-versions";
 			sourceTree = "<group>";
