@@ -1,4 +1,6 @@
-# eqsam -> https://github.com/researchConcepts/eqsam
+# eqsam 
+
+For updates -> https://github.com/researchConcepts/eqsam
 
 EQSAM (EQuilibrium Simplified Aerosol Model) is a computationally efficient thermodynamic<br />
 aerosol composition model that allows to calculate the gas/aerosol equilibrium partitioning,<br />
